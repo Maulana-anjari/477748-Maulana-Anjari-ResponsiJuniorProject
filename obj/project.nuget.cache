@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hpjkiDh/zRWK2XOOUzQHf2nJrcPvnbepDKKkmguuJ0FJymxlzok8NnwtE7Q0WHmrQ8NrN4POG+OCgp/AevDX0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maulana Anjari Ang\\source\\repos\\responsijunpromaul\\responsijunpromaul.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maulana Anjari Ang\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Maulana Anjari Ang\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Maulana Anjari Ang\\.nuget\\packages\\npgsql\\8.0.1\\npgsql.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
